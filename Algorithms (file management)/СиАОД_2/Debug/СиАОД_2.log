@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\vlads\source\repos\СиАОД_2\СиАОД_2\functionsFile.h(20,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vlads\source\repos\СиАОД_2\СиАОД_2\functionsFile.h(75,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vlads\source\repos\СиАОД_2\СиАОД_2\functionsFile.h(151): warning C4715: countValuesFile: значение возвращается не при всех путях выполнения
+C:\Users\vlads\source\repos\СиАОД_2\СиАОД_2\functionsFile.h(126): warning C4715: findValueFile: значение возвращается не при всех путях выполнения
+  СиАОД_2.vcxproj -> C:\Users\vlads\source\repos\СиАОД_2\Debug\СиАОД_2.exe
