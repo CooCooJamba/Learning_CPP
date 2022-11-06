@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\vlads\source\repos\СиАОД_3\СиАОД_3\binaryFileManagement.h(17,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\vlads\source\repos\СиАОД_3\СиАОД_3\binaryFileManagement.h(30,23): warning C4018: <: несоответствие типов со знаком и без знака
+  СиАОД_3.vcxproj -> C:\Users\vlads\source\repos\СиАОД_3\Debug\СиАОД_3.exe
