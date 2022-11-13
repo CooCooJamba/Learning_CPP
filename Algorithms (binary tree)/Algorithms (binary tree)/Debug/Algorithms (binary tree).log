@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\vlads\source\repos\Algorithms (binary tree)\Algorithms (binary tree)\main.cpp(20,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vlads\source\repos\Algorithms (binary tree)\Algorithms (binary tree)\main.cpp(47,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vlads\source\repos\Algorithms (binary tree)\Algorithms (binary tree)\main.cpp(90,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vlads\source\repos\Algorithms (binary tree)\Algorithms (binary tree)\main.cpp(95): warning C4715: binaryTree::getOper: значение возвращается не при всех путях выполнения
+  Algorithms (binary tree).vcxproj -> C:\Users\vlads\source\repos\Algorithms (binary tree)\Debug\Algorithms (binary tree).exe
